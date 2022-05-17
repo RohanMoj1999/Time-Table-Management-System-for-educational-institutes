@@ -58,8 +58,8 @@ def myButtonEvent(selection):
         # database connectivity code must be written under button method
         conn_str = (
             r'DRIVER={SQL Server};'
-            r'SERVER=ROHAN\SQLEXPRESS;'
-            r'DATABASE=pythonConnection;'
+            r'SERVER={YOUR Ms SQL SERVER NAME};'
+            r'DATABASE={DATABASE NAME};'
             r'Trusted_Connection=yes;'
         )
         cnxn = pyodbc.connect(conn_str)
@@ -81,8 +81,8 @@ def myButtonEvent(selection):
         # database connectivity code must be written under button method
         conn_str = (
             r'DRIVER={SQL Server};'
-            r'SERVER=ROHAN\SQLEXPRESS;'
-            r'DATABASE=pythonConnection;'
+            r'SERVER={YOUR Ms SQL SERVER NAME};'
+            r'DATABASE={DATABASE NAME};'
             r'Trusted_Connection=yes;'
         )
         cnxn = pyodbc.connect(conn_str)
@@ -98,8 +98,8 @@ def myButtonEvent(selection):
         # database connectivity code must be written under button method
         conn_str = (
             r'DRIVER={SQL Server};'
-            r'SERVER=ROHAN\SQLEXPRESS;'
-            r'DATABASE=pythonConnection;'
+            r'SERVER={YOUR Ms SQL SERVER NAME};'
+            r'DATABASE={DATABASE NAME};'
             r'Trusted_Connection=yes;'
         )
         cnxn = pyodbc.connect(conn_str)
