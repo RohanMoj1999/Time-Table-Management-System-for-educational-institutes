@@ -7,3 +7,8 @@ Features include:
 2. storing the data in Ms SQL database table
 3. modify or delete data from that table
 4. share the database table to the recipients if required via python email system.
+
+### To design the GUI
+To design the GUI window, we need certain libraries:
+1. ```tkinter```: to design the GUI window
+2. ```pillow```: to set background image for the GUI window
