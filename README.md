@@ -28,7 +28,10 @@ Results of some features are shown below:
 1. Inserting data
 ![Data Uploaded successfully](https://user-images.githubusercontent.com/62896383/169952775-d1ab7014-54ec-476a-a3c4-f6f0e433bf6b.png)
 2. Database output
-![Screenshot (966)](https://user-images.githubusercontent.com/62896383/169952911-ea124580-2daa-47d3-93d9-d856fcd9ff67.png)
+![Table result](https://user-images.githubusercontent.com/62896383/169952911-ea124580-2daa-47d3-93d9-d856fcd9ff67.png)
 3. Shared the excel format of the MsSQL table via email
-![Screenshot (974)](https://user-images.githubusercontent.com/62896383/169953338-0e8c996d-761e-4d82-b86d-156f9547f31e.png)
-4. 
+![Mail received](https://user-images.githubusercontent.com/62896383/169953338-0e8c996d-761e-4d82-b86d-156f9547f31e.png)
+4. Video result
+https://user-images.githubusercontent.com/62896383/169953615-1e3102af-4f0a-4adc-8e79-ae2e962275be.mp4
+
+
