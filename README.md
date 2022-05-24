@@ -20,7 +20,7 @@ To connect Ms SQL, we need:
 > import ```pymysql``` to establish connection with MySQL
 
 ### Establish Email Connection
-1. import the libraray ```smtplib```
+1. import the library ```smtplib```
 > Here I have imported email IDs from an excel file. For reading excel file, we have imported ```pandas``` library.
 
 ### Output
