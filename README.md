@@ -8,11 +8,27 @@ Features include:
 3. modify or delete data from that table
 4. share the database table to the recipients if required via python email system.
 
-### To design the GUI
+### Designing GUI
 To design the GUI window, we need certain libraries:
 1. ```tkinter```: to design the GUI window
 2. ```pillow```: to set background image for the GUI window
 
 ### Database Connectivity
 To connect Ms SQL, we need:
-1. ```pyodbc```: to create connection with Ms SQL
+1. ```pyodbc```: to establish connection with Ms SQL
+2. provide the exact _database_ name to create table under that specific database
+> import ```pymysql``` to establish connection with MySQL
+
+### Establish Email Connection
+1. import the libraray ```smtplib```
+> Here I have imported email IDs from an excel file. For reading excel file, we have imported ```pandas``` library.
+
+### Output
+Results of some features are shown below:
+1. Inserting data
+![Data Uploaded successfully](https://user-images.githubusercontent.com/62896383/169952775-d1ab7014-54ec-476a-a3c4-f6f0e433bf6b.png)
+2. Database output
+![Screenshot (966)](https://user-images.githubusercontent.com/62896383/169952911-ea124580-2daa-47d3-93d9-d856fcd9ff67.png)
+3. Shared the excel format of the MsSQL table via email
+![Screenshot (974)](https://user-images.githubusercontent.com/62896383/169953338-0e8c996d-761e-4d82-b86d-156f9547f31e.png)
+4. 
