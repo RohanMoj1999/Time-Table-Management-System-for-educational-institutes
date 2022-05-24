@@ -12,3 +12,7 @@ Features include:
 To design the GUI window, we need certain libraries:
 1. ```tkinter```: to design the GUI window
 2. ```pillow```: to set background image for the GUI window
+
+### Database Connectivity
+To connect Ms SQL, we need:
+1. ```pyodbc```: to create connection with Ms SQL
