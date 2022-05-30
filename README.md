@@ -31,7 +31,7 @@ Results of some features are shown below:
 ![Table result](https://user-images.githubusercontent.com/62896383/169952911-ea124580-2daa-47d3-93d9-d856fcd9ff67.png)
 3. Shared the excel format of the MsSQL table via email
 ![Mail received](https://user-images.githubusercontent.com/62896383/169953338-0e8c996d-761e-4d82-b86d-156f9547f31e.png)
-4. Video result
+4. Video output of some features of this project
 
 https://user-images.githubusercontent.com/62896383/169953615-1e3102af-4f0a-4adc-8e79-ae2e962275be.mp4
 
